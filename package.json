@@ -10,6 +10,9 @@
   "keywords": ["rest-api", "nodejs", "express"],
   "author": "Sayem",
   "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "axios": "^1.7.2",
     "cors": "^2.8.5",
